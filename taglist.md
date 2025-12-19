@@ -32,4 +32,4 @@ This is to denote a page is a "Work In Progress" but is considered complete enou
 
 TODO: figure out the word I'm actually thinking of. Not Op-Ed, Not Narrative, Not Dialogue.
 
-This is for items that aren't directly a right but is relevant to the more general Pride-Rights explainer.
+This is for items that aren't directly a right but is relevant to the more general Pride-Rights explainer. It's meant to mostly be anecdotal or theoretical examples to explain why proposals or statements are so stupid they make people mad.
