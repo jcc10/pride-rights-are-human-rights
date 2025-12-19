@@ -27,3 +27,9 @@ These pages deal with more general cultural issues that shouldn't or can't be si
 # WIP
 
 This is to denote a page is a "Work In Progress" but is considered complete enough for browsing. That is to say past draft status but prior to full publication. It's unlikely to be commonly used outside of extremely large or broad articles that can't otherwise be broken up.
+
+# Op-Ed
+
+TODO: figure out the word I'm actually thinking of. Not Op-Ed, Not Narrative, Not Dialogue.
+
+This is for items that aren't directly a right but is relevant to the more general Pride-Rights explainer.
